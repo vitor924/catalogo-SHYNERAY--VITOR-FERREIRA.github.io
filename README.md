@@ -541,8 +541,7 @@
         };
 
         // Catalogo de motos Shineray
-        const MOTOS = [
-            {         {
+        const MOTOS = [ {
                 nome: "JET 50 SS",
                 preco: "R$ 11.990,00",
                 imagem: "https://www.shineray.com.br/wp-content/uploads/2023/06/Jet-50s.webp"
@@ -601,8 +600,7 @@
                 nome: "Iron 250",
                 preco: "R$ 26.990,00",
                 imagem: "https://www.shineray.com.br/wp-content/uploads/2025/01/Iron.webp"
-            }
-        ];  
+            }];  
 
         // Elementos do formulario
         const inputNome = document.getElementById('clienteNome');
